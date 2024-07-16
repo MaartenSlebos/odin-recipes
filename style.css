@@ -22,3 +22,11 @@ img {
     width: 300px;
     height: auto;
 }
+
+a {
+    color: black;
+}
+
+.emphasis {
+    font-weight: bold;
+}
